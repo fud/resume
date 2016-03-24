@@ -26,5 +26,5 @@ grunt
 Currently the json resume schema confuses references with testimonials. Generally in Australia
 we add references as people that can be contacted who will talk about your competence.
 
-Outlined in this issue, jsonresume/resume-schema#2
+Outlined in [issue #2](https://github.com/jsonresume/resume-schema/issues/2)
 
