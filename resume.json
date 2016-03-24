@@ -1,0 +1,193 @@
+{
+  "basics": {
+    "name": "Brenton Bills",
+    "label": "Software Developer",
+    "picture": "http://2.gravatar.com/avatar/387e16b704e709e74c57ef70791b34ed",
+    "email": "brenton.bills@gmail.com",
+    "phone": "+61 404 441 837",
+    "website": "",
+    "summary": "I'm a degree qualified software developer with over 10 years experience. I've worked for both small and large organisations in Australia and internationally. I have had experience in a diverse set of industries and that has given me the skills to adapt to new fields of business and technology. I do enjoy learning new skills and challenges.",
+    "location": {
+      "address": "Unit 1, 104 Birdwood Rd",
+      "postalCode": "QLD 4152",
+      "city": "Brisbane",
+      "countryCode": "AU",
+      "region": "Brisbane"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "fud",
+        "url": "http://github.com/fud"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "APN Australian Regional Media (ARM)",
+      "position": "Python Software Developer / devops",
+      "website": "http://apnarm.com.au",
+      "startDate": "2007-12-01",
+      "summary": "Built a CMS for APN’s 20 daily newspapers and classifieds site. I’ve been involved in over 100 SCRUM iterations of the software. I’ve built features, ensured that the platform is performant and integrated with third party systems. We’ve built a reliable platform using Python and Django that has allowed content to be easily published online.",
+      "highlights": [
+        "Building new features for the CMS in Django and Python",
+        "Ensuring the software is performant during high traffic periods",
+        "Involved in the deployment of the software on AWS",
+        "Lead a team of 6 developers"
+      ]
+    },
+    {
+      "company": "UBIT Tokyo Japan",
+      "position": "Ruby Software Developer",
+      "website": "http://ubit.com",
+      "startDate": "2006-04-03",
+      "endDate": "2007-09-30",
+      "summary": "Worked on an mobile service platform that allows the publishing of content on mobile devices in a manner that degraded it successfully based on the capabilities of the mobile device.",
+      "highlights": [
+        "Developed with Ruby/Mysql new features and fixed bugs",
+        "Assisted the Quality Assurance department with Selenium testing",
+        "Learnt Ruby on the job",
+        "Worked successfully in a team of both Japanese and international staff"
+      ]
+    },
+    {
+      "company": "Nova Group",
+      "position": "English Instructor",
+      "startDate": "2006-03-31",
+      "endDate": "2004-06-07",
+      "summary": "Worked as an English instructor to Japanese students of all ages",
+      "highlights": [
+        "Dealing with people with a wide range of abilities",
+        "Vast improvement in my communication skills"
+      ]
+    },
+    {
+      "company": "Blue fountain Systems, Liverpool UK",
+      "position": "Python Software Developer",
+      "startDate": "2002-06-17",
+      "endDate": "2003-05-30",
+      "summary": "Part of the development team that worked on various consulting projects for mainly Japanese companies in the UK and Europe",
+      "highlights": [
+        "Python development with some direct customer interaction",
+        "Worked on a project for Suzuki dealers in Hungry to order vehicles parts from Suzuki MSC using Zope, Python, Postgresql",
+        "Toyota Tsusho UK, a project to integrate Toyota’s just in time ordering system with Toyota Tsusho, a tyre supplier",
+        "Takeda UK, main developer on a project for Takeda’s sales representatives, to test them on their knowledge of the companies products. Implemented with wxPython & XML"
+      ]
+    },
+    {
+      "company": "Unversal Networks",
+      "position": "Assistant System Adminstrator / PHP and C Developer",
+      "startDate": "2002-01-07",
+      "endDate": "2002-06-14",
+      "summary": "Worked in a two man team as an assistant system administrator as well as some development for an ISP of about 2000 users",
+      "highlights": [
+        "Ensure services were running",
+        "Ensure billing processing was run correctly",
+        "Assisted in rewriting the billing system using PHP and some C"
+      ]
+    },
+    {
+      "company": "MoveThings.com, Baltimore USA",
+      "position": "Remote Python Developer",
+      "startDate": "2001-04-02",
+      "endDate": "2001-12-14",
+      "summary": "Main Python Software developer on the Zope project taking instruction from a Business Analyst working directly with the company",
+      "highlights": [
+        "Learnt the responsibility of being the only software developer on a project"
+      ]
+    },
+    {
+      "company": "Hiringtools.com, San Francisco USA",
+      "position": "Remote Python Developer",
+      "startDate": "1999-07-12",
+      "endDate": "2000-12-22",
+      "summary": "Worked remotely from Brisbane for a San Francisco, USA startup as a software developer on a project to making hiring easier",
+      "highlights": [
+        "Part of a team working on Python development using the Zope platform to produce tools for the Hiringtools suite",
+        "Worked on the Job Advert Writer and the Interview plan builder"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queensland University of Technology",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "1996-02-12",
+      "endDate": "1999-07-02"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Python",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "UNIX/Linux",
+      "level": "Advanced",
+      "keywords": [
+        "Shell Scripting",
+        "Docker",
+        "Puppet",
+        "Memcache",
+        "PgBouncer"
+      ]
+    },
+    {
+      "name": "AWS Services",
+      "level": "Advanced",
+      "keywords": [
+        "RDS (Postgres)",
+        "EC2",
+        "IAM",
+        "S3",
+        "VPC",
+        "SNS",
+        "Cloudfont"
+      ]
+    },
+    {
+      "name": "Databases / NOSQL",
+      "level": "Competent",
+      "keywords": [
+        "Postgres",
+        "Mysql",
+        "MongoDB",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "SCRUM / Agile",
+      "level": "Competent",
+      "keywords": [
+        "Unit tests",
+        "Continous integration",
+        "Daily standups",
+        "Grooming/Planning meetings",
+        "Jira"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Triathlon and Ironman",
+      "keywords": [
+        "Running",
+        "Cycling",
+        "Swimming"
+      ]
+    }
+  ]
+}
