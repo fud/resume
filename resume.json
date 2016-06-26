@@ -2,7 +2,6 @@
   "basics": {
     "name": "Brenton Bills",
     "label": "Software Developer",
-    "picture": "http://2.gravatar.com/avatar/387e16b704e709e74c57ef70791b34ed",
     "email": "brenton.bills@gmail.com",
     "phone": "+61 404 441 837",
     "website": "",
@@ -169,7 +168,7 @@
         "Unit tests",
         "Continous integration",
         "Daily standups",
-        "Grooming/Planning meetings",
+        "Refinement/Planning meetings",
         "Jira"
       ]
     }
