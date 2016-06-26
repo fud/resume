@@ -2,9 +2,12 @@
   "name": "BrentonBills-resume",
   "version": "v0.0.1",
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "~0.4.5",
+    "grunt-hackmyresume": "~0.2.0",
     "hackmyresume": "~1.8.0",
     "jsonresume-theme-classy": "~1.0.9",
-    "jsonresume-theme-onepage": "0.0.2"
+    "jsonresume-theme-onepage": "~0.0.2",
+    "jsonresume-theme-spartan": "~0.2.1",
+    "jsonresume-theme-kendall": "~0.1.13"
   }
 }
